@@ -16,4 +16,4 @@ This is a simple Java GUI application built using **Swing**. It allows users to:
 - No external libraries needed
 
 ## Author
-prachi
+prachiErlekar
